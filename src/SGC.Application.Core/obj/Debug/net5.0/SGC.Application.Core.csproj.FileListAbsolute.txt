@@ -1,0 +1,12 @@
+C:\Leo\Projetos\Projetos em MVC\SGC\src\SGC.Application.Core\bin\Debug\net5.0\SGC.Application.Core.deps.json
+C:\Leo\Projetos\Projetos em MVC\SGC\src\SGC.Application.Core\bin\Debug\net5.0\SGC.Application.Core.dll
+C:\Leo\Projetos\Projetos em MVC\SGC\src\SGC.Application.Core\bin\Debug\net5.0\SGC.Application.Core.pdb
+C:\Leo\Projetos\Projetos em MVC\SGC\src\SGC.Application.Core\obj\Debug\net5.0\SGC.Application.Core.csproj.AssemblyReference.cache
+C:\Leo\Projetos\Projetos em MVC\SGC\src\SGC.Application.Core\obj\Debug\net5.0\SGC.Application.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Leo\Projetos\Projetos em MVC\SGC\src\SGC.Application.Core\obj\Debug\net5.0\SGC.Application.Core.AssemblyInfoInputs.cache
+C:\Leo\Projetos\Projetos em MVC\SGC\src\SGC.Application.Core\obj\Debug\net5.0\SGC.Application.Core.AssemblyInfo.cs
+C:\Leo\Projetos\Projetos em MVC\SGC\src\SGC.Application.Core\obj\Debug\net5.0\SGC.Application.Core.csproj.CoreCompileInputs.cache
+C:\Leo\Projetos\Projetos em MVC\SGC\src\SGC.Application.Core\obj\Debug\net5.0\SGC.Application.Core.dll
+C:\Leo\Projetos\Projetos em MVC\SGC\src\SGC.Application.Core\obj\Debug\net5.0\refint\SGC.Application.Core.dll
+C:\Leo\Projetos\Projetos em MVC\SGC\src\SGC.Application.Core\obj\Debug\net5.0\SGC.Application.Core.pdb
+C:\Leo\Projetos\Projetos em MVC\SGC\src\SGC.Application.Core\obj\Debug\net5.0\ref\SGC.Application.Core.dll

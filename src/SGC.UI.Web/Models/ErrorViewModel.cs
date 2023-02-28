@@ -1,5 +1,3 @@
-using System;
-
 namespace SGC.UI.Web.Models
 {
     public class ErrorViewModel
